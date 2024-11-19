@@ -1,11 +1,16 @@
-## Hi there 👋
+## Welcome to My GitHub Profile! 👋
 
+Hello, and thank you for visiting my GitHub page! I'm Hamed Qazanfari, a research scientist, AI enthusiast, and software engineer with a strong passion for machine learning, computer vision, and innovative software solutions.
+
+- 🔬 Research & Academic Background
+- Research Scientist at the Image Processing and Data Mining Laboratory, Shahrood University of Technology.
+- Published Author with 7 peer-reviewed articles, including a comprehensive review on content-based image retrieval.
+- Thesis Advisor for master’s students at Shahrood Non-Profit University, guiding projects in AI and software development.
+- Machine Learning & Deep Learning Certified (Coursera - Neural Networks and Deep Learning, taught by Andrew Ng).
 <!--
-**hamedmit/hamedmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+d
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
