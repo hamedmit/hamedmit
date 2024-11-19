@@ -12,7 +12,7 @@ Hello, and thank you for visiting my GitHub page! I'm Hamed Qazanfari, a researc
 - Content-Based Image Retrieval Systems:  
 1- Developed using MATLAB and C# for efficient image retrieval based on a short-term machine learning approach and human visual features. [Link will be soon]  
 2- Developed using MATLAB and C# for efficient image retrieval based on human visual features.
-[One of them] (https://github.com/hamedmit/Content-based-Image-Retrieval-Considering-Colour-Difference-Histogram-of-Image-Texture-and-Edge-Orie)
+[[Repository](https://github.com/hamedmit/Content-based-Image-Retrieval-Considering-Colour-Difference-Histogram-of-Image-Texture-and-Edge-Orie)]
 
 - Online Image Editing System:  
 Developed a comprehensive tool for image enhancement and processing.
